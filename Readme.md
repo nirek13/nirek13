@@ -53,13 +53,7 @@ I'm a passionate developer with a keen interest in creating innovative solutions
     </p>
   </div>
 
-## Projects
 
-Here are some of my favorite projects:
-
-- [Project 1](https://github.com/nirek13/project1) - Description of project 1
-- [Project 2](https://github.com/nirek13/project2) - Description of project 2
-- [Project 3](https://github.com/nirek13/project3) - Description of project 3
 
 ## Connect with Me
 
@@ -67,10 +61,3 @@ Here are some of my favorite projects:
 - [Twitter](https://twitter.com/nirek13)
 - [Website](nirekshetty.tech)
 
-## Fun Fact
-
-Did you know? I !
-
----
-
-*Nirek (nirek13)*
