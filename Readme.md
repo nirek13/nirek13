@@ -2,13 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nirek13&color=blue)
 
-## About Me
 
-I'm a passionate developer with a keen interest in creating innovative solutions and learning new technologies. 
-
-- 🌱 I’m currently learning and exploring various aspects of software development.
-- 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [shettynirek@gmail.com](mailto:shettynirek@gmail.com)
 
 ## My GitHub Stats
 
@@ -58,6 +52,5 @@ I'm a passionate developer with a keen interest in creating innovative solutions
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nirek13/)
-- [Twitter](https://twitter.com/nirek13)
 - [Website](nirekshetty.tech)
 
