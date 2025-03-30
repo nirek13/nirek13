@@ -49,8 +49,3 @@ Contractual.ca
 
 
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/nirek13/)
-- [Website](nirekshetty.tech)
-
