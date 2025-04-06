@@ -5,7 +5,7 @@
 Contractual.ca
 
 ## My GitHub Stats
-[![Nirek's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nirek13&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirek13&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![Nirek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirek13&show_icons=true&theme=tokyonight)
