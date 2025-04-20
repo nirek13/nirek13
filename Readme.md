@@ -5,7 +5,7 @@
 Contractual.ca
 
 ## My GitHub Stats
-![Nirek's GitHub Stats](https://github-readme-stats-nirek13.vercel.app/api?username=nirek13&show_icons=true&theme=tokyonight&count_private=true)
+![Nirek's GitHub Stats](https://github-readme-stats-53ccwsuuh-nirek13s-projects.vercel.app/api?username=nirek13&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
