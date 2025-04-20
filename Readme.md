@@ -5,10 +5,7 @@
 Contractual.ca
 
 ## My GitHub Stats
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/nirek13" alt="Nirek's GitHub Contribution Graph" />
-</p>
+![Nirek's GitHub Stats](https://github-readme-stats-nirek13.vercel.app/api?username=nirek13&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
