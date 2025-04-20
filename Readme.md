@@ -6,7 +6,10 @@ Contractual.ca
 
 ## My GitHub Stats
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nirek13/nirek13/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://ghchart.rshah.org/nirek13" alt="Nirek's GitHub Contribution Graph" />
+</p>
+
 
 
 ## Top Languages
