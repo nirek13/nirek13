@@ -6,8 +6,7 @@ Contractual.ca
 
 ## My GitHub Stats
 
-
-![Nirek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirek13&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nirek13/nirek13/output/github-contribution-grid-snake.svg)
 
 
 ## Top Languages
