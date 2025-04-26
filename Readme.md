@@ -1,4 +1,4 @@
-# Hi there, I'm Nirek 👋
+# Nirek Shetty 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nirek13&color=blue)
 
