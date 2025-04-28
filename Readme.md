@@ -6,9 +6,7 @@ Contractual.ca
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirek13&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nirek13&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
